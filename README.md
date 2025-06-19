@@ -13,7 +13,7 @@ International Conference on Neural Information Processing. Springer, Cham, 2020.
 ## Training and Testing
 run main*.py, such as [short1.27fast_nlls_xl_2mem_lattransconv_p_OSL_500_cosine/maint3.py](short1.27fast_nlls_xl_2mem_lattransconv_p_OSL_500_cosine/maint3.py), after specifying the lrcodebase folder and other dependencies. For the [LRW dataset](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html), please download the data and fill in the BBC agreement at the [BBC Lip Reading in the Wild and Lip Reading Sentences in the Wild Datasets page](https://www.bbc.co.uk/rd/projects/lip-reading-datasets). A valid institutional affiliation is needed. 
 
-The model file is also copyrighted by the agreement since it is a derivative from the LRW dataset, unless otherwise stated. So, the checkpoint is not provided here.
+*The model file is also copyrighted by the agreement since it is a derivative from the LRW dataset, unless otherwise stated. So, the checkpoint is not provided here.*
 
 ## Citation
 A link to the [paper](https://link.springer.com/chapter/10.1007/978-3-030-63820-7_63) and its [ArXiv](https://arxiv.org/abs/2005.10903).
